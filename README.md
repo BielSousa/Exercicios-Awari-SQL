@@ -1,4 +1,4 @@
-# Exercicios-Awari-SQL
+# Exercicios-SQL
 
 Todos os exercícios foram feitos com base no dataset retirado do kaggle.
 
